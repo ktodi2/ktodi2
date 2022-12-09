@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 ![resize final](https://user-images.githubusercontent.com/118176527/206685691-5184cc4c-f8c3-4325-80e8-e296027afc3f.jpg)
 ![homepage](https://user-images.githubusercontent.com/118176527/206685708-daf513a4-5071-4cfc-b749-d9553bf101c8.jpg)
 [cmu_112_graphics.md](https://github.com/ktodi2/ktodi2/files/10194016/cmu_112_graphics.md)
-Video Link:-https://youtu.be/TqyZb5wVrZI
+Video Link:-https://youtu.be/wpi0ueHl9Fg
