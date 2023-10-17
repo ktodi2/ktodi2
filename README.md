@@ -1,7 +1,11 @@
-Project Name:- Stratton Oakmont(A portfolio visualiser and optimiser)
-1. Uses brownian motion based on monte-carlo methods to predict the price of a stock in the future, optimises a portfolio given stocks using 
-2. sharpe ratio and monte carlo methods, prepares a trading strategy using bollinger bands and brownian motion, visualises a portfolio investment, conducts sentiment analysis
-3. using textblob and by scraping through the finwiz website, and also gauges the sentiment of Elon Musk about a particular ticker.
+Project Name:- Portfolio visualiser and optimiser
+•	Formulated an algorithm using geometric Brownian motion and Monte Carlo simulations for accurate security price forecasting.
+•	Developed an asset allocation model to optimize the Sharpe ratio, ensuring alignment with targeted returns.
+•	Applied Bollinger bands to projected security price paths, identifying key trade entry and exit points.
+•	Created a sentiment analysis model, extracting web data on securities to generate buy, sell, and hold signals.
+•	Analyzed data containing all of Elon Musk's tweets, conducting sentiment analysis to gauge his opinion on the company, aiding in predicting potential stock price movements.
+![image](https://github.com/ktodi2/ktodi2/assets/118176527/012be9d6-12ea-41df-ade5-5c2e73657ba8)
+
 
 <!---
 ktodi2/ktodi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
