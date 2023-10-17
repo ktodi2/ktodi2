@@ -4,7 +4,6 @@ Project Name:- Portfolio visualiser and optimiser
 •	Applied Bollinger bands to projected security price paths, identifying key trade entry and exit points.
 •	Created a sentiment analysis model, extracting web data on securities to generate buy, sell, and hold signals.
 •	Analyzed data containing all of Elon Musk's tweets, conducting sentiment analysis to gauge his opinion on the company, aiding in predicting potential stock price movements.
-![image](https://github.com/ktodi2/ktodi2/assets/118176527/012be9d6-12ea-41df-ade5-5c2e73657ba8)
 
 
 <!---
