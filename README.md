@@ -1,8 +1,13 @@
 Project Name:- Portfolio visualiser and optimiser
+
 •	Formulated an algorithm using geometric Brownian motion and Monte Carlo simulations for accurate security price forecasting.
+
 •	Developed an asset allocation model to optimize the Sharpe ratio, ensuring alignment with targeted returns.
+
 •	Applied Bollinger bands to projected security price paths, identifying key trade entry and exit points.
+
 •	Created a sentiment analysis model, extracting web data on securities to generate buy, sell, and hold signals.
+
 •	Analyzed data containing all of Elon Musk's tweets, conducting sentiment analysis to gauge his opinion on the company, aiding in predicting potential stock price movements.
 
 
