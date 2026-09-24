@@ -1,1 +1,2 @@
 2026-09-24T21:55Z  START. Set up output/ folder. Next: Phase 1 landscape via 7 parallel research subagents writing to output/work/phase1/.
+2026-09-24T21:55Z  Phase 1 running: 8 subagents (A_rhtp, B_sorh_flex_funders, C_assoc_set1, D_assoc_set2, E_networks_systems, F_cpa_interim_coding, G_tech_ehr_gpo, H_finance_insurers_events_econ). Seed list saved to work/seed_v1.tsv.
