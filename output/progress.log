@@ -7,3 +7,4 @@
 2026-09-24T22:04Z  Phase 1: H_finance_insurers_events_econ done. Waiting on B.
 2026-09-24T22:08Z  Phase 1 DONE: 01_landscape.md written (24 partner types). Next: 02_ranking.md, then Phase 3 census subagents.
 2026-09-24T22:10Z  Phase 2 DONE: 02_ranking.md. Phase 3 running: 5 census subagents (assoc, networks, cpa, state_funders, complementary) writing to work/phase3/.
+2026-09-24T22:14Z  Phase 3: complementary.csv done (20 rows: 5A/8B/7C).
