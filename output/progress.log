@@ -9,3 +9,4 @@
 2026-09-24T22:10Z  Phase 2 DONE: 02_ranking.md. Phase 3 running: 5 census subagents (assoc, networks, cpa, state_funders, complementary) writing to work/phase3/.
 2026-09-24T22:14Z  Phase 3: complementary.csv done (20 rows: 5A/8B/7C).
 2026-09-24T22:14Z  Phase 3: assoc.csv done (58 rows: 24A/16B/18C).
+2026-09-24T22:14Z  Phase 3: cpa.csv done (28 rows: 12A/10B/6C).
